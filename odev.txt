@@ -1,0 +1,11 @@
+//Madde A
+document.write("<strong>Proje-2.a</strong><p></p>"); 
+for (let i=2; i<100;i=i+2){
+    document.write(i + "<br>");      
+}
+
+//Madde B
+document.write("<p></p><strong>Proje-2.b</strong><p></p>"); 
+a="Ali";
+b="Veli";
+document.write(a+" "+b); 
